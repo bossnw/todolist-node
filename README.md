@@ -2,9 +2,7 @@
 
 ## To Install Project Dependencies
 
-    ```
     npm install
-    ```
 
 ## To Install Nodemon
 
