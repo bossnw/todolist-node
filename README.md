@@ -11,3 +11,6 @@
 ## To Run Project
 
     nodemon app.js or node app.js or npm start
+
+## To Get API information
+    Open File API todolist.postman_collection.json in POSTMAN
