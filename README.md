@@ -1,4 +1,4 @@
-## TO DO List CIUD Rest API
+## TO DO List CRUD Rest API
 
 ## To Install Project Dependencies
 
